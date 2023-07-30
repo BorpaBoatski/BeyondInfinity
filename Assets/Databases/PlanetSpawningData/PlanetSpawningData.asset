@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce48d5af2219f184285e5d4625de2b1d, type: 3}
+  m_Name: PlanetSpawningData
+  m_EditorClassIdentifier: 
+  PlanetDatas:
+  - PlanetSize: 0
+    RequiredDistance: 5
+    Score: 3
+  - PlanetSize: 1
+    RequiredDistance: 7
+    Score: 2
+  - PlanetSize: 2
+    RequiredDistance: 10
+    Score: 1
+  PlanetDetails:
+  - PlanetName: Lunar Whale
+    PlanetSprite: {fileID: 21300000, guid: 693c027287627384ea76d107ae64670d, type: 3}
+    PlanetDescription: A lunar whale...
+  - PlanetName: Pomegrenade
+    PlanetSprite: {fileID: 21300000, guid: 066fc6e21ce18794081ad2c3f00a244f, type: 3}
+    PlanetDescription: Looks safe....
+  - PlanetName: Planet planet??
+    PlanetSprite: {fileID: 21300000, guid: 01678ad45c56a6e4da8256860871a42c, type: 3}
+    PlanetDescription: Wonder how the people feel
+  - PlanetName: Planet Pancake
+    PlanetSprite: {fileID: 21300000, guid: 3de901e33010cb747b8975c0e3900e45, type: 3}
+    PlanetDescription: NO SYRUP?!
+  - PlanetName: Dinoplanet
+    PlanetSprite: {fileID: 21300000, guid: 7da1e45952b010043946ecb8372b8fe4, type: 3}
+    PlanetDescription: Everybody walk the dinosaur!
+  - PlanetName: Bok Bok
+    PlanetSprite: {fileID: 21300000, guid: bf64e927e92de724fadf22a27d9a56af, type: 3}
+    PlanetDescription: Look at him go!
+  - PlanetName: Apple Juice
+    PlanetSprite: {fileID: 21300000, guid: 96f19a1ce16413547a588488690842a4, type: 3}
+    PlanetDescription: Made with real apples. Wow!
+  - PlanetName: Snowglobe
+    PlanetSprite: {fileID: 21300000, guid: 124eadcc4f07b4b46a166fa9feea15a1, type: 3}
+    PlanetDescription: Santa...alien?
+  - PlanetName: MC
+    PlanetSprite: {fileID: 21300000, guid: 3ea1ec6f4f4042a48848620f763abc62, type: 3}
+    PlanetDescription: It is all blocks....
